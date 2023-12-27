@@ -13,4 +13,4 @@ In this I am reading data from a file named 'Sample.txt' and then using LZW algo
 
 ## Flaw
 
-At higher data length, it sometimes collase.
+At higher data length, it sometimes collapse.
