@@ -1,4 +1,4 @@
-# Data_Compressiong_LZW
+# Data_Compressing_LZW
 Implemented Lempel-Ziv-Welch data comrpession technique in this one to compress a text file comtaining 1501 bytes, which ultimately gets compressed to 883 bytes.
 
 ## Overview
